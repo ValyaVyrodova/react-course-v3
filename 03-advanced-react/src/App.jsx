@@ -1,4 +1,4 @@
-import Example from "./tutorial/06-forms/starter/05-form-data";
+import Example from "./tutorial/11-performance/starter/04-react-18";
 
 function App() {
   return (
